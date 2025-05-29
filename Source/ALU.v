@@ -1,4 +1,4 @@
-ALU Control lines | Function
+/* ALU Control lines | Function
         0000    ADDRR Ry <- Ra + Rb
         0001    SUBRR Ry <- Ra - Rb
         0010	MULRR Ry <- Ra X Rb
