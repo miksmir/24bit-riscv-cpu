@@ -10,3 +10,11 @@ This project was implemented in Verilog.
 All main source code is included in the Source directory and all testbench code for simulating each module is included in the Testbenches directory. 
 
 NOTE: This project was a group effort between Mikhail Smirnov, Ray Reshef, Yordan Nikolov, and Adina Tsibulevskiy.
+
+
+![image](https://github.com/user-attachments/assets/b95d44d1-2b07-45ce-9dbd-73246d6dc80b)
+
+![image](https://github.com/user-attachments/assets/602dadf4-3eee-4f95-8923-fddbb8117706)
+
+![image](https://github.com/user-attachments/assets/a542164c-9b73-4403-8254-0857361dbc4b)
+
