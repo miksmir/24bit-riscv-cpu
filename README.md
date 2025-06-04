@@ -6,4 +6,7 @@ The two peripherals implemented are a 24-bit timer and a 16-bit integer divider.
 
 See the PDF report for more details of the implementation, such as the instruction set used, the opcodes, and the simulation results.
 
+This project was implemented in Verilog.
+All main source code is included in the Source directory and all testbench code for simulating each module is included in the Testbenches directory. 
+
 NOTE: This project was a group effort between Mikhail Smirnov, Ray Reshef, Yordan Nikolov, and Adina Tsibulevskiy.
